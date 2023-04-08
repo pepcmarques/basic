@@ -6,9 +6,10 @@ authors = ["Paulo Marques <paulo.marques@incognito.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.8.1"
 django = "^4.2"
-python-decouple = "^3.8"
+python-decouple = "^3.7"
+flake8 = "^6.0.0"
 
 
 [build-system]
